@@ -11,7 +11,6 @@
  * @BDEditor Frosted Glass
 */
 
-@import url('https://fonts.googleapis.com/css2?family=GG+Sans:wght@100;300;400;500;700&display=swap');
 @import url('https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css');
 @import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
 @import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
